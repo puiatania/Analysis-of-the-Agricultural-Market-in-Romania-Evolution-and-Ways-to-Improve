@@ -57,26 +57,6 @@ The research incorporates multiple statistical and econometric methods, includin
 - **Correspondence Analysis (CA)** to identify relationships between categorical variables in the survey data.
 - **Principal Component Analysis (PCA)** for dimensionality reduction in multi-variable datasets.
 
-## 🚀 Getting Started
-### **1️⃣ Clone the Repository**
-```
-git clone https://github.com/your-username/thesis-repo.git
-cd thesis-repo
-```
-
-### **2️⃣ Install Required R Packages**
-Make sure you have R installed. Then, install the necessary packages:
-```r
-install.packages(c("urca", "vars", "mFilter", "tseries", "forecast", "tidyverse", "stargazer", "Metrics", "readxl", "aTSA", "tsDyn", "dynlm", "corrplot", "factoextra", "FactoMineR", "openxlsx", "ca"))
-```
-
-### **3️⃣ Run the Analysis**
-Execute the R scripts to reproduce the results:
-```r
-source("code/VECM.R")
-source("code/chestionar.R")
-```
-
 ## 📌 Key Findings
 - The **VECM model** indicates a long-term relationship between agricultural prices in Romania and the EU market.
 - Survey results show a **growing consumer preference** for organic products, but price remains a major barrier.
