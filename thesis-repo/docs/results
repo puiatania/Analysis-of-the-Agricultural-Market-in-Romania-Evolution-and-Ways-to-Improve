@@ -1,0 +1,140 @@
+📊 Results of the Thesis: Agricultural Market Analysis in Romania
+
+1️⃣ Introduction
+
+This document presents a structured summary of the key findings from the thesis "Analysis of the Agricultural Market in Romania: Evolution and Improvement Strategies." It covers various statistical and econometric methods used to analyze trends, price indices, and consumer preferences regarding organic products.
+
+2️⃣ Time Series Analysis
+
+The analysis of agricultural price indices in Romania was conducted using Vector Error Correction Models (VECM) to determine the long-term relationship between domestic and European agricultural markets.
+
+Data Used:
+
+Source: EUROSTAT database, covering the period Q1 2010 - Q3 2023.
+
+Variables analyzed:
+
+INCRT_RO – Real price index for consumer goods in Romania.
+
+ININV_RO – Real price index for agricultural investment goods in Romania.
+
+INCRT_EU – Real price index for consumer goods in the EU.
+
+ININV_EU – Real price index for agricultural investment goods in the EU.
+
+Key Findings:
+
+Stationarity Tests:
+
+The Augmented Dickey-Fuller (ADF) test confirmed that price indices were non-stationary at levels but became stationary after first differencing.
+
+The Phillips-Perron (PP) test supported ADF results, confirming that the variables are integrated of order one, allowing for further cointegration analysis.
+
+Johansen Cointegration Test:
+
+Results indicated the existence of two significant cointegration relationships, suggesting that Romanian agricultural price indices move together with the EU indices in the long run.
+
+Impulse Response Functions (IRF):
+
+The model demonstrated that an external shock in EU agricultural prices has a delayed but long-term impact on Romanian markets.
+
+The response of domestic prices is most significant within the first 3-5 periods after a shock, showing a dependency on external price fluctuations.
+
+The effect of the shock gradually diminishes but does not disappear entirely, indicating a long-term connection with EU markets.
+
+Granger Causality Tests:
+
+Strong evidence of bidirectional causality between Romanian and EU agricultural price indices, except for investment indices, which appear exogenous in the system.
+
+This suggests that price adjustments in Romania are influenced by EU trends, but also impact EU markets, reinforcing the integration of the Romanian agricultural sector.
+
+3️⃣ Correspondence Analysis (CA) – Consumer Preferences
+
+A structured survey was conducted to assess consumer interest in organic products and identify market trends.
+
+Survey Data Used:
+
+Number of respondents: 211.
+
+Regions covered: Constanța, Ialomița, and Bucharest.
+
+Total number of questions: 29, including open-ended and closed-ended types.
+
+Data collected:
+
+Demographics: Gender, age, education level, residence, income, occupation.
+
+Consumer behavior: Frequency of organic product purchases, willingness to pay a premium.
+
+Perceptions: Views on organic food vs genetically modified (GMO) food, key purchase decision factors (freshness, packaging, origin, price/quality ratio, marketing influence).
+
+Key Findings from Correspondence Analysis (CA):
+
+CA between Age and Organic Consumption Frequency:
+
+Young consumers (18-25) have a higher likelihood of consuming organic products weekly, while older consumers prefer monthly or occasional consumption.
+
+Respondents over 40 tend to associate organic product consumption with health benefits rather than environmental impact.
+
+CA between Occupation and Purchase Preference:
+
+Professionals with stable incomes prioritize certification labels and product origin.
+
+Students and part-time workers are more price-sensitive, favoring affordability over organic certification.
+
+CA between Income and Willingness to Pay for Organic Products:
+
+Higher-income individuals (>5000 RON) show stronger preference for organic goods and willingness to pay a premium.
+
+Lower-income groups prefer discounted or locally sourced organic products.
+
+CA between Household Size and Organic Spending:
+
+Larger households prioritize bulk purchasing and cost efficiency.
+
+Single-person households show higher per capita spending on organic food.
+
+CA between Number of Children and Organic Product Awareness:
+
+Families with children have higher awareness levels of organic food benefits.
+
+Households without children show lower concern for organic certification labels.
+
+CA between Education Level and Trust in Organic Certification:
+
+University graduates express higher trust in European organic labels.
+
+Respondents with lower education levels are more skeptical about the authenticity of organic branding.
+
+4️⃣ Conclusion and Policy Recommendations
+
+The findings highlight key areas for improvement in Romania's agricultural market, emphasizing the role of subsidies, market integration, and consumer behavior shifts toward organic products.
+
+Recommendations:
+
+Enhance Subsidy Programs:
+
+Expanding financial support for organic farming can increase production and lower prices for consumers.
+
+A tiered subsidy system based on farm size and sustainability practices should be considered.
+
+Market Diversification:
+
+Encouraging international trade agreements can help stabilize market fluctuations and increase demand.
+
+Expanding partnerships with regional organic certification bodies could enhance consumer trust.
+
+Consumer Awareness Campaigns:
+
+Government and private sector initiatives should focus on educating consumers about the benefits and authenticity of organic food.
+
+Clearer labeling and transparency in the supply chain could improve confidence in organic products.
+
+Infrastructure Development:
+
+Investments in local supply chains can reduce costs and improve product accessibility.
+
+A focus on direct-to-consumer distribution models (such as farm cooperatives) can reduce intermediary costs.
+
+This document provides a detailed and structured summary of the thesis results, ensuring it can be shared publicly on GitHub while maintaining compliance with ethical and data privacy considerations.
+
