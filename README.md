@@ -33,7 +33,6 @@ This repository contains research, statistical analysis, and supporting material
 │   ├── chestionar.html
 │
 │── README.md         # Project description and instructions
-│── LICENSE           # Open-source license
 ```
 
 ## 🔬 Methodology and Analyses Used
